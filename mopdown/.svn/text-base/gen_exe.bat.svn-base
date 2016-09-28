@@ -1,0 +1,2 @@
+cd ./bin
+ruby -r ../dependency ../rubyscript2exe.rb mop_down.rb --rubyscript2exe-tk --rubyscript2exe-rubyw

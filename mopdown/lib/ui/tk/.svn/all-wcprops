@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/49/trunk/lib/ui/tk
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/52/trunk/lib/ui/tk/util.rb
+END
+downloader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/52/trunk/lib/ui/tk/downloader.rb
+END
+reader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/52/trunk/lib/ui/tk/reader.rb
+END
+main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/lib/ui/tk/main.rb
+END
+widgets.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/52/trunk/lib/ui/tk/widgets.rb
+END
+aboutwin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/52/trunk/lib/ui/tk/aboutwin.rb
+END
+help.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/52/trunk/lib/ui/tk/help.rb
+END

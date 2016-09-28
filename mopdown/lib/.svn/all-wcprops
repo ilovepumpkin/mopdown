@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/49/trunk/lib
+END
+web.rb
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/58/trunk/lib/web.rb
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/58/trunk/lib/util.rb
+END
+persister.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/58/trunk/lib/persister.rb
+END
+service.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/58/trunk/lib/service.rb
+END
+model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/22/trunk/lib/model.rb
+END
+mylogger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/lib/mylogger.rb
+END
+config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/51/trunk/lib/config.rb
+END
+view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/21/trunk/lib/view.rb
+END

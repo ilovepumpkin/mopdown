@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/13/trunk
+END
+gen_exe.bat
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/54/trunk/gen_exe.bat
+END
+dependency.rb
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/54/trunk/dependency.rb
+END
+rakefile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/58/trunk/rakefile.rb
+END
+rubyscript2exe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/54/trunk/rubyscript2exe.rb
+END
